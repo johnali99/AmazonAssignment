@@ -1,0 +1,129 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-02-04T21:40:13.237Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5676977900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.BeforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify that user is prompt to provide email or phone number when clicking on Buy Now button",
+        "description": "",
+        "id": "kindle;verify-that-user-is-prompt-to-provide-email-or-phone-number-when-clicking-on-buy-now-button",
+        "after": [
+          {
+            "result": {
+              "duration": 9204330400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinition.Initializer.AfterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1182808700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Amazon website",
+            "match": {
+              "location": "stepDefinition.AmazonMenuKindle.user_is_on_Amazon_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1721541900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on hamburger menu",
+            "match": {
+              "location": "stepDefinition.AmazonMenuKindle.user_click_on_hamburger_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 909082300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user select Kindle under Digital Content and Devices",
+            "match": {
+              "location": "stepDefinition.AmazonMenuKindle.user_select_Kindle_under_Digital_Content_and_Devices()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6427129600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user click Kindle under Kindle E-Reader",
+            "match": {
+              "location": "stepDefinition.AmazonMenuKindle.user_click_Kindle_under_Kindle_E_Reader()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1429091400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user click Buy Now",
+            "match": {
+              "location": "stepDefinition.AmazonMenuKindle.user_click_Buy_Now()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 304738500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user should see \"E-mail address or mobile phone number\" text",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"E-mail address or mobile phone number\"",
+                  "offset": 16
+                }
+              ],
+              "location": "stepDefinition.AmazonMenuKindle.user_should_see_text(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@testRun"
+          }
+        ]
+      }
+    ],
+    "name": "Kindle",
+    "description": "",
+    "id": "kindle",
+    "keyword": "Feature",
+    "uri": "classpath:features/kindle.feature",
+    "tags": []
+  }
+]

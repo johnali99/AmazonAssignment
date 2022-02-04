@@ -1,0 +1,152 @@
+2022-02-04 12:11:09,487 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:14:43,294 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:14:43,718 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 12:14:43,997 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 12:14:44,330 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 12:14:45,501 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 12:15:49,491 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:15:50,687 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 12:15:50,779 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 12:15:58,035 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 12:15:58,869 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 12:29:05,757 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:29:05,932 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 12:29:06,376 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 12:29:10,531 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 12:29:11,656 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 12:29:11,701 - logger_file -INFO - Actual text and expected text are matched
+2022-02-04 12:31:45,268 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:31:46,583 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 12:31:46,821 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 12:31:51,796 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 12:31:52,999 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 12:31:53,043 - logger_file -INFO - Actual text is this : ===E-mail address or mobile phone number
+2022-02-04 12:42:01,102 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:42:01,594 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 12:42:01,886 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 12:42:02,220 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 12:42:03,239 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 12:42:03,980 - logger_file -INFO - The text " actualText"is present
+2022-02-04 12:43:35,366 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 12:43:36,633 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 12:43:36,729 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 12:43:40,898 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 12:43:42,250 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 12:43:42,305 - logger_file -INFO - The text E-mail address or mobile phone number is present
+2022-02-04 13:36:06,026 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 13:36:09,242 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 13:36:09,655 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 13:36:09,902 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 13:36:10,317 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 13:36:11,294 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 13:36:11,820 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 13:36:21,129 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button PASSED
+2022-02-04 13:37:31,666 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 13:44:38,613 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 13:44:41,666 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 13:44:43,799 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 13:44:44,691 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 13:45:05,699 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 13:45:07,707 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 13:45:08,082 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 13:45:17,692 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button PASSED
+2022-02-04 13:51:13,759 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 13:51:16,264 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 13:51:18,213 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 13:51:19,130 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 13:51:24,447 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 13:51:26,494 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 13:51:26,824 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 13:52:29,749 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 13:52:34,951 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 13:52:35,832 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 13:52:36,581 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 13:52:42,432 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 13:52:43,805 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 13:52:44,005 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 13:54:27,480 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:08:24,254 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:20:10,855 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:21:32,709 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:21:58,508 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:22:01,689 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 14:22:03,633 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 14:22:04,548 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 14:22:20,059 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 14:24:27,840 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:24:41,895 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:39:54,255 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:41:52,311 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:41:54,784 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 14:41:56,690 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 14:41:57,591 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 14:42:00,900 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 14:46:31,886 - logger_file -INFO - Scenario Verify that user is asked for email and password after clicking on Buy button started
+2022-02-04 14:46:37,929 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 14:46:38,781 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 14:46:39,583 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 14:46:44,386 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 14:46:45,927 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 14:46:46,127 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:23:54,077 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:24:01,477 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:24:04,963 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:24:07,301 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:24:14,378 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:24:17,962 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:24:18,684 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:24:25,290 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button PASSED
+2022-02-04 15:26:55,715 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:27:00,377 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:27:02,776 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:27:05,132 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:27:13,282 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:27:17,391 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:27:18,148 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:27:24,095 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button PASSED
+2022-02-04 15:31:37,738 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:31:43,072 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:31:46,314 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:31:49,044 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:31:57,066 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:32:00,796 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:32:01,521 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:32:07,441 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button PASSED
+2022-02-04 15:33:12,982 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:33:22,418 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:33:24,835 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:33:27,271 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:33:30,675 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:33:35,383 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:33:36,037 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:39:25,431 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:39:31,900 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:39:33,328 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:39:34,551 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:39:43,677 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:39:45,869 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:39:46,211 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:45:10,068 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:45:15,442 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:45:17,189 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:45:18,474 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:45:21,830 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:45:24,897 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:45:25,329 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:45:31,586 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button PASSED
+2022-02-04 15:46:11,785 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 15:46:21,152 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 15:46:23,179 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 15:46:24,888 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 15:46:34,479 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 15:46:38,742 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 15:46:39,388 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 15:46:45,141 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button PASSED
+2022-02-04 16:40:13,379 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button started
+2022-02-04 16:40:19,060 - logger_file -INFO - Actual title is matching with expected title
+2022-02-04 16:40:21,046 - logger_file -INFO - User clicked on Humberger menu
+2022-02-04 16:40:21,966 - logger_file -INFO - User clicked on Kindle under Digital Content and Devices in Main menu
+2022-02-04 16:40:28,301 - logger_file -INFO - User clicked on Kindle under Kindle E-Reader sub-menu
+2022-02-04 16:40:30,296 - logger_file -INFO - User clicked on Buy Now button
+2022-02-04 16:40:30,679 - logger_file -INFO - The text E-mail address or mobile phone number is present. Actual and expected titles are matched
+2022-02-04 16:40:40,158 - logger_file -INFO - Scenario Verify that user is prompt to provide email or phone number when clicking on Buy Now button PASSED

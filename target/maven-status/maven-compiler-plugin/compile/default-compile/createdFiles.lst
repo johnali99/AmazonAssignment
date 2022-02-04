@@ -1,0 +1,4 @@
+core\Base.class
+utilities\CucumberReportingConfig.class
+pageObject\KindlePageObject.class
+utilities\UtilityClass.class

@@ -1,0 +1,3 @@
+stepDefinition\AmazonMenuKindle.class
+stepDefinition\Initializer.class
+runner\TestRunner.class
